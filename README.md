@@ -37,7 +37,7 @@
 | compress | "True" | 是否压缩图片 |
 | bot_name | "Tsugu" | Bot名称 |
 | bandori_station_token | "ZtV4EX2K9Onb" | 车站 Token |
-| token_name | "token" | Token 名称 |
+| token_name | "Tsugu" | Token 名称 |
 | api_use_proxy | "False" | 是否使用代理访问 Tsugu 后端 |
 | proxy_url | "http://127.0.0.1:7890" | 代理地址 |
 | server_list | 格式见下文 | 服务器列表 |
